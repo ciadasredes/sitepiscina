@@ -1,7 +1,8 @@
 name: Admin
 slug: admin
-email: admin@admin.com
 role: Administrador
+avatar: ""
 bio: ""
+email: fenav2@gmail.com
 adminRole: admin
-adminPasswordHash: efe05eaaa707c5a137ed3572b683806d67d9693893e575eee8aeec22a490f5cd
+adminPasswordHash: 309cc0392ae6662aa35e518f81123c7e4f5c4e05104fca075e0373c3b0a53ada
