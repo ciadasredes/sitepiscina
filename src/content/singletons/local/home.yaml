@@ -6,10 +6,38 @@ companyAddress: Rua Exemplo, 123 - Bairro
 companyCity: São Paulo
 companyState: SP
 companyCEP: 01000-000
+heroBadge: Cerca para Piscina
+heroTitle: Cerca removível para Piscina
+heroTitleHighlight: em São Paulo
+heroSubtitle: Segura e estética, o cercado para piscina atende as normas internacionais de proteção contra afogamentos em piscinas.
+heroCtaText: Falar no WhatsApp
+heroCtaSecondaryText: Ver tipos
+heroWhatsappMessage: Olá! Preciso alugar andaime para minha obra. Vocês montam?
 heroBackground: ""
-clients: []
 socialTitle: Empresas que confiam em nós
 socialProofActive: false
+clients: []
+servicesTitle: Andaimes para Locação
+servicesSubtitle: Segurança nas alturas
+featuredServices:
+  - aluguel-de-andaime
+  - aluguel-andaime-fachadeiro
+  - aluguel-andaime-movel
+  - aluguel-andaime-tubular
+  - aluguel-plataforma-elevatoria
+  - aluguel-escada-aluminio
+  - montagem-de-andaime
+aboutTitle: Referência em Aluguel de Andaime
+aboutSubtitle: Equipamentos certificados
+aboutText: Locamos andaimes metálicos, fachadeiros e móveis para obras e serviços em altura. Montagem e desmontagem por equipe treinada. Equipamentos com certificação.
+aboutImage: ""
+aboutStats:
+  - number: "10"
+    label: 2323566'nos de experiência
+  - number: 3000+
+    label: Obras atendidas
+  - number: 100%
+    label: Segurança garantida
 locationTitle: Nossa Localização
 locationAddress: Rua Exemplo, 123 - Bairro - São Paulo/SP
 locationMapEmbed: ""
@@ -17,30 +45,17 @@ ctaTitle: Precisa de ajuda agora?
 ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
 ctaButtonText: Chamar no WhatsApp
 ctaWhatsappMessage: Olá! Gostaria de mais informações.
-heroBadge: ⚡ Eletricista de confiança
-heroTitle: Especialistas em Instalações Elétricas
-heroTitleHighlight: em São Paulo
-heroSubtitle: Instalação, manutenção e reparo elétrico. Atendimento seguro e com certificação. Orçamento sem compromisso!
-heroCtaText: Falar no WhatsApp
-heroCtaSecondaryText: Ver nossos serviços
-heroWhatsappMessage: Olá! Preciso de um eletricista. Vocês atendem aqui?
-servicesTitle: Serviços Elétricos
-servicesSubtitle: Soluções elétricas para sua casa ou empresa
-aboutTitle: Eletricista Residencial e Comercial
-aboutSubtitle: Profissionais qualificados
-aboutText: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
-aboutStats:
-  - number: 10+
-    label: Anos de experiência
-  - number: 800+
-    label: Instalações realizadas
-  - number: 100%
-    label: Satisfação garantida
-featuredServices:
-  - instalacao-eletrica-residencial
-  - troca-de-quadro-eletrico
-  - instalacao-de-tomada
-  - instalacao-de-luminaria
-  - manutencao-eletrica
-  - chaveamento-de-lampada
-activeTemplateId: eletricista
+activeTemplateId: aluguel-andaime
+formTitle: Orçamento Gratuito
+formSubtitle: Resposta em minutos · Sem compromisso
+formNamePlaceholder: Seu nome
+formPhonePlaceholder: Seu telefone / WhatsApp
+formMessagePlaceholder: Descreva o que você precisa
+formButtonText: Enviar pelo WhatsApp
+trustBadges:
+  - ✅ Orçamento gratuito
+  - ⚡ Resposta rápida
+  - 🔒 Sem spam
+  - ⭐ Atendimento local
+ctaFooterTitle: Orçamento gratuito em
+ctaFooterSubtitle: Atendemos rápido. Resposta em minutos, sem compromisso.
