@@ -1,10 +1,10 @@
 heroTitle: "{servico} em {cidade} - {estado}"
-heroSubtitle: Aluguel de {servico} em {cidade} e região. Andaimes para sua obra.
-pageContent: Procurando {servico} em {cidade}? A {empresa} oferece andaimes para locação com montagem. Atuamos em {cidade} e região. Consulte valores e disponibilidade!
+heroSubtitle: Serviços elétricos de {servico} em {cidade} e região. Eletricista qualificado, atendimento rápido e orçamento grátis.
+pageContent: Precisa de {servico} em {cidade}? Nossa equipe de eletricistas está pronta para atender. Atuamos em toda a região de {cidade} - {estado} com instalações, manutenções e reparos elétricos. Entre em contato e receba seu orçamento gratuito.
 benefits:
-  - Montagem em {cidade}
-  - Orçamento gratuito
-  - Equipe treinada
-  - Equipamentos certificados
-metaTitle: "{servico} em {cidade} | {empresa}"
-metaDescription: Aluguel de {servico} em {cidade}. A {empresa} - segurança na obra. Ligue!
+  - Atendimento rápido em {cidade} e região
+  - Orçamento gratuito e sem compromisso
+  - Eletricista experiente e qualificado
+  - Garantia em todos os serviços
+metaTitle: "{servico} em {cidade} | Eletricista - {empresa}"
+metaDescription: Precisa de {servico} em {cidade}? A {empresa} oferece atendimento de eletricista. Orçamento grátis. Ligue agora!
